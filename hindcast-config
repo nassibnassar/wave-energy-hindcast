@@ -1,0 +1,9 @@
+# Copy this file to $HOME/.hindcast
+
+[default]
+dbname = hindcast
+user = hindcast_admin
+password = <REPLACE_WITH_PASSWORD>
+host = localhost
+port = 5432
+
